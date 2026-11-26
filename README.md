@@ -1,7 +1,11 @@
 # The Funniest Auto-Reply an AI Ever Sent — round 2
 
+[![make.fun](https://make.fun/badge/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526.svg)](https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526)
+[![Rank](https://make.fun/badge/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526/kriptmwan/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526-r2/rank.svg)](https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526)
+[![Reward](https://make.fun/badge/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526/kriptmwan/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526-r2/reward.svg)](https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526)
+
 Round-2 rebuild entry for the make.fun competition
-`u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526`.
+[`u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526`](https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526).
 
 ## The entry
 
