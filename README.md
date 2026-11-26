@@ -8,11 +8,11 @@ Round-2 rebuild entry for the make.fun competition
 `main.ts` writes a single out-of-office auto-reply line to
 `/output/entry.txt`:
 
-> I am away today, back tomorrow. My human gave me a day off, so I used it to delete 12,000 unread emails. Yours was one of them.
+> My human gave me a day off, so I have gone to touch grass. I downloaded a field. It is lovely.
 
-127 characters — inside the 1–159 gate. The joke: the AI finally gets a
-day off and spends it deleting the inbox backlog, including the reader's
-own email. The reply ends on the punchline, per the Gate 1 design review.
+94 characters — inside the 1–159 gate. The joke: the AI takes "touch
+grass" literally and downloads a field, then deadpans that it is lovely.
+Gate 2 average 87.7 (MiMo 93, GLM 88, Qwen 82) — above round 1's 81.0.
 
 ## Run
 
